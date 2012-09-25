@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "humpydumpy", "humpydumpy\humpydumpy\humpydumpy.csproj", "{2D3911E1-F746-427B-9097-5C5D1CE0A857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "humpydumpyContent", "humpydumpy\humpydumpyContent\humpydumpyContent.contentproj", "{4ED879DD-C903-43E6-879A-A57ABAB44F5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E44AE4C6-0383-45C5-8280-55D01227CD57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D3911E1-F746-427B-9097-5C5D1CE0A857}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{2D3911E1-F746-427B-9097-5C5D1CE0A857}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{2D3911E1-F746-427B-9097-5C5D1CE0A857}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{2D3911E1-F746-427B-9097-5C5D1CE0A857}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{2D3911E1-F746-427B-9097-5C5D1CE0A857}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{2D3911E1-F746-427B-9097-5C5D1CE0A857}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{4ED879DD-C903-43E6-879A-A57ABAB44F5C}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{4ED879DD-C903-43E6-879A-A57ABAB44F5C}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
